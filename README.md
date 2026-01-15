@@ -47,5 +47,6 @@ Run the simulation using vvp.
 Example using Lab1.v: 
 
 iverilog Lab1.v cpu.v
-  vvp a.out
+
+vvp a.out
 
