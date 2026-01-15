@@ -44,7 +44,8 @@ Compile the CPU and the desired lab file using iverilog.
 
 Run the simulation using vvp.
 
-Example using Lab1.v 
-  iverilog Lab1.v cpu.v
+Example using Lab1.v: 
+
+iverilog Lab1.v cpu.v
   vvp a.out
 
