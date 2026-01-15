@@ -13,7 +13,7 @@ Memory Access (MEM)
 
 Write Back (WB)**
 
-The project is divided into multiple lab files (Lab1.v, Lab2.v, etc.), each corresponding to different stages or milestones of the CPU implementation.
+The project is divided into multiple lab files (Lab1.v, Lab2.v, etc.), each corresponding to different stages or milestones of the CPU implementation. The cpu.v file contains the CPU and its internal modules (like yALU and yMux)
 
 # Requirements
 
@@ -25,9 +25,12 @@ A command-line interface (Command Prompt, Terminal, etc.)
 
 # Installing Icarus Verilog
 
-Linux: Run the following command in the command line
-  sudo apt install iverilog
-Windows: Download and install from the Icarus Verilog website
+Linux: 
+Run the following command in the command line
+sudo apt install iverilog
+  
+Windows: 
+Download and install from the Icarus Verilog website
 
 
 # How to Compile and Run
