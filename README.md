@@ -36,13 +36,7 @@ Download and install from the Icarus Verilog website
 
 # How to Compile and Run
 
-Open a command prompt or terminal.
-
-Navigate to the directory containing the Verilog files.
-
-Compile the CPU and the desired lab file using iverilog.
-
-Run the simulation using vvp.
+Open a command prompt or terminal. Navigate to the directory containing the Verilog files. Compile the CPU and the desired lab file using iverilog. Run the simulation using vvp.
 
 Example using Lab1.v: 
 
