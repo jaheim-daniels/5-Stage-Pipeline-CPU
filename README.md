@@ -27,6 +27,7 @@ A command-line interface (Command Prompt, Terminal, etc.)
 
 Linux: 
 Run the following command in the command line
+
 sudo apt install iverilog
   
 Windows: 
